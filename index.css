@@ -1,0 +1,30 @@
+.cal-body{
+    border: 2px solid #000;
+    width: 400px;
+    height: 390px;
+    position: relative;
+    margin-left: 400px;
+    margin-top: 20px;
+    border-radius: 50px;
+    
+    
+}
+.display{
+    border: 3px solid gray; 
+    height: 40px;
+    border-radius: 50px;
+    text-align: center;
+}
+.button{
+margin-left: 30px;
+margin-right: 10px;
+}
+.button1{
+    width: 65px;
+    height: 55px;
+    border-radius: 50px;
+}
+.button2{
+    width: 350px;
+    height: 30px;
+}
